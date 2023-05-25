@@ -1,3 +1,5 @@
+# See https://github.com/keifufu/WebNowPlaying-Redux
+
 # Web Now Playing Companion Extension
 The extension to go along with the WebNowPlaying plugin for Rainmeter  
 Source code and downloads for the Rainmeter plugin can be found [here](https://github.com/tjhrulz/WebNowPlaying)  
